@@ -19,5 +19,5 @@ Como mencionamos antes el jugador puede hacer moverse las esferas con texto:
 
 <h3>Cubos</h3>
 El jugador también puede cambiar el color de los cubos con texto
-|[](Gifs/Cubos.gif)
+![](Gifs/Cubos.gif)
 
