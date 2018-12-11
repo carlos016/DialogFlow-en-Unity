@@ -15,8 +15,4 @@ En los siguientes gifs se ven ilustrados las maneras en las que el usuario puede
 <h3>Esferas</h3>
 ![](Gifs/Esferas.gif)
 
-<h3>Cubos</h3>
-![](Gifs/Cubos.gif)
 
-<h3>Cilindros</h3>
-![](Gifs/Cilindros.gif)
