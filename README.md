@@ -21,3 +21,8 @@ Como mencionamos antes el jugador puede hacer moverse las esferas con texto:
 
 El jugador también puede cambiar el color de los cubos con texto:
 ![](Gifs/Cubos.gif)
+
+<h3>Cilindros</h3>
+
+Y por último, el jugador también puede cambiar de color los cilindros si se acerca a ellos:
+![](Gifs/Cilindros.gif)
